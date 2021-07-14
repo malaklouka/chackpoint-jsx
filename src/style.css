@@ -1,0 +1,27 @@
+.title{
+    font-size: 50px;
+    text-align: center;
+}
+
+.red{
+    color:orange;
+    font-family:fantasy;
+
+}
+.image{
+
+    width: 250;
+    height: 350px;
+    margin-left: 550px;
+}
+
+.imag{
+padding-top: 5%;
+    width: 250;
+    height: 350px;
+    margin-left: 580px;
+    padding-bottom: 3%;
+}
+.myvid{
+    margin-left: 550px;
+}
